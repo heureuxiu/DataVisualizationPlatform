@@ -8,6 +8,12 @@ module.exports = {
       fontFamily: {
         sans: ['Poppins', 'sans-serif'], // Set Poppins as the default sans font
       },
+      colors: {
+        primary: "#A17561",
+        secondary: "#71BBB2",
+        background1: "#E3D7D1",
+        background2: "#FFFFFF",
+      },
     },
   },
   plugins: [],
